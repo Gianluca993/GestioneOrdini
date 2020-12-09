@@ -72,3 +72,8 @@ local.properties
 
 # Testing environment specific
 derby.log
+
+#Other files
+*.jpg
+*.jpeg
+*.png
